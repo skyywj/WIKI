@@ -5,7 +5,7 @@ SOA：面向服务架构
 ### github：[Dubbo-Service-API](https://github.com/skyywj/Dubbo-Service-API.git)
 该项目为dubbo服务的interface，供其他服务调用
 
-### githubb: [Demo-Dubbo](https://github.com/skyywj/Demo-Dubbo.git)
+### github: [Demo-Dubbo](https://github.com/skyywj/Demo-Dubbo.git)
 该项目为dubbo服务的provider
 
 ### github:[Demo-Dubbo-ServiceTest](https://github.com/skyywj/Demo-Dubbo-ServiceTest.git)
