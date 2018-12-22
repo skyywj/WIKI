@@ -13,3 +13,5 @@
 ### 6.[关于加解密的服务](url/demo/crypto.md)
 
 ### 7.[关于service-api](url/demo/api.md)
+
+### 8.[关于编程练习的题目解析](url/demo/arithmetic.md)
