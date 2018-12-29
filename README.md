@@ -17,3 +17,5 @@
 ### 8.[关于编程练习的题目解析](url/demo/arithmetic.md)
 
 ### 9.小工具，[html标签去除器](https://github.com/skyywj/Demo-Basic/blob/master/src/main/java/com.sky.hrpro/tools/HtmlTools.java)，解决html文字无法复制问题
+
+### 10.[id生成器-snowflake](https://github.com/skyywj/Id-Service)
