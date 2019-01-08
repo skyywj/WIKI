@@ -19,3 +19,7 @@
 ### 9.小工具，[html标签去除器](https://github.com/skyywj/Demo-Basic/blob/master/src/main/java/com.sky.hrpro/tools/HtmlTools.java)，解决html文字无法复制问题
 
 ### 10.[id生成器-snowflake](https://github.com/skyywj/Id-Service)
+
+### 11.[redis之zset实现排行榜功能](http://www.carryjey.club/article/17)
+
+### 12.[redis之计时器实现接口限频功能](http://www.carryjey.club/article/18)
